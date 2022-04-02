@@ -34,7 +34,7 @@ export default function App() {
                     </div>
                 </div>
             </div>
-            <div className="row">
+            <div className="row--footer">
                 <div className="container">
                         <Footer/>
                 </div>
