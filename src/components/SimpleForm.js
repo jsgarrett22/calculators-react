@@ -15,7 +15,7 @@ export default function SimpleForm() {
 
             <div className="col-sm-4 form-floating">
                 <input type="number" id="years" className="form-control" placeholder="Years" min="1" step="1" required/>
-                <label for="years">Frequency:</label>
+                <label for="years">Years:</label>
             </div>
 
             <div className="btn-group">
