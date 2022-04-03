@@ -14,8 +14,8 @@ export default function CompoundForm() {
             </div>
 
             <div className="col-sm-4 form-floating">
-                <input type="number" id="time" className="form-control" placeholder="Time" min="1" step="1" required/>
-                <label for="time">Years:</label>
+                <input type="number" id="years" className="form-control" placeholder="Years" min="1" step="1" required/>
+                <label for="years">Years:</label>
             </div>
 
             <div className="col-sm-12 center">

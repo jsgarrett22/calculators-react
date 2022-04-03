@@ -9,13 +9,13 @@ export default function SimpleForm() {
             </div>
 
             <div className="col-sm-4 form-floating">
-                <input type="number" id="rate" className="form-control" placeholder="Rate" min="1" step="1" required/>
+                <input type="number" id="rate" className="form-control" placeholder="Rate"  min="1" step="1" required/>
                 <label for="rate">Rate:</label>
             </div>
 
             <div className="col-sm-4 form-floating">
-                <input type="number" id="time" className="form-control" placeholder="Time" min="1" step="1" required/>
-                <label for="time">Frequency:</label>
+                <input type="number" id="years" className="form-control" placeholder="Years" min="1" step="1" required/>
+                <label for="years">Frequency:</label>
             </div>
 
             <div className="btn-group">
