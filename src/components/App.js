@@ -18,7 +18,7 @@ export default function App() {
                         <SimpleForm/>
                     </div>
                     <div className="container">
-                        <Display/>
+                        <Display principal={100000} rate={5} years={10}/>
                     </div>
                 </div>
 
